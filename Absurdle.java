@@ -1,7 +1,4 @@
 // Kaillah Selvaretnam
-// TA: Rishi Bathina, Shreya Nambi
-// CSE 122 AN
-// May 09 2023
 // Absurdle
 // This program creats a game similar to the popular NYT game "Wordle", called "Absurdle".
 // The player gets to indicate which dictionary they would like the game to be based off of, 
